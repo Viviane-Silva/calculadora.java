@@ -1,4 +1,4 @@
-# Calculadora feita para dar um numero aproximado de visualizações sobre um valor de investimento.
+# Calculadora de Visualizações de Anuncios
 
 
 
